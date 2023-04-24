@@ -14,3 +14,4 @@ pymysql==0.9.3
 nltk==3.8.2
 pyea==0.2
 pbkdf2==1.0.0
+SwarmPackagePy==1.0.0a5
