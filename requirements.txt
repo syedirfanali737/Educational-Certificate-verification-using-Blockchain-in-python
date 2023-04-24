@@ -13,4 +13,4 @@ django==2.1.7
 pymysql==1.0.3
 pyea
 pbkdf2
-SwarmPackagePy
+
