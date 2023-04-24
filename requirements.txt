@@ -11,6 +11,6 @@ sklearn-extensions==0.0.2
 pyswarms==1.1.0
 django==2.1.7
 pymysql==1.0.3
-pyea==0.2
-pbkdf2==1.0.0
-SwarmPackagePy==1.0.0a5
+pyea
+pbkdf2
+SwarmPackagePy
