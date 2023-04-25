@@ -70,7 +70,6 @@ soupsieve==2.4.1
 sqlparse==0.4.4
 tensorboard==1.14.0
 tensorboard-data-server==0.6.1
-tensorboard-plugin-wit==1.8.1
 tensorflow==1.14.0
 tensorflow-estimator==1.14.0
 tensorflow-io-gcs-filesystem==0.32.0
