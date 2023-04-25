@@ -68,7 +68,6 @@ sklearn-extensions==0.0.2
 sklearn-genetic==0.2
 soupsieve==2.4.1
 sqlparse==0.4.4
-SwarmPackagePy==1.0.0a5
 tensorboard==1.14.0
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
