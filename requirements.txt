@@ -67,7 +67,6 @@ sklearn==0.0.post4
 sklearn-extensions==0.0.2
 sklearn-genetic==0.2
 soupsieve==2.4.1
-sqlparse==0.4.4
 tensorflow==1.14
 tensorboard-data-server==0.6.1
 tensorflow-estimator==1.14.0
