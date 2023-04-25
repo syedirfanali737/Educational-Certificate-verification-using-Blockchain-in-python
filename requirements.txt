@@ -39,7 +39,6 @@ multiprocess==0.70.14
 nltk==3.8.1
 numpy==1.18.1
 oauthlib==3.2.2
-opencv-python==4.2.0.32
 opt-einsum==3.3.0
 packaging==23.1
 pandas==0.25.3
